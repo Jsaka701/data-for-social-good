@@ -33,7 +33,7 @@ Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
 
 ## UML Diagram 
 
-![UML Diagram for my project](UMLDIAGRAM.png) 
+![UML Diagram for my project](UMLDIAGRAM.PNG) 
 
 ## Description 
 
